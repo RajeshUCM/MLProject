@@ -10,8 +10,9 @@ Project tile: Sepsis Prediction Using Machine Learning
 
 Team Involved in this Project Work:
 
+Rajesh Nalla ,  700747145
+
 Suresh Kumar Batchu, 700747326
 
 Manohar Ronanki, 700743624
 
-Rajesh Nalla, 700747145
